@@ -23,5 +23,4 @@ README.md
 - Resumo teórico com os conceitos principais.
 - Notebooks com simulações (resposta ao degrau, Bode, Nyquist, Lugar das Raízes, etc.).
 - Códigos em Python (preferencialmente usando control, scipy, numpy, matplotlib) e exemplos MATLAB quando aplicável.
-- Gráficos exportados em `figures/` e tabelas de resultados.
-- `videos.md` com links e breves descrições de cada vídeo.
+- Links de vídeos e breves descrições de cada vídeo.
