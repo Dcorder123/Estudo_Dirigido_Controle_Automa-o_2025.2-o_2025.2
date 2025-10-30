@@ -1,0 +1,1 @@
+# Estudo_Dirigido_Controle_Automa-o_2025.2
